@@ -11,8 +11,6 @@
 
 ├── figures/ # 所有图表输出
 
-├── results/ # 分析结论摘要或报告
-
 ├── requirements.txt # Python环境依赖包
 
 └── README.md # 项目说明文档（当前文件）
